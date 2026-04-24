@@ -24,3 +24,6 @@ usage
 open the google form you want to access.
 if the form is locked, a bypass button will appear at the bottom of the form.
 click the bypass button to access the form.
+
+this script is open source
+
